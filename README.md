@@ -2,7 +2,7 @@
 # Node.js Demo App with CI/CD on AWS EC2
 
 A sample **Node.js web application** with an automated CI/CD pipeline using **GitHub Actions**, **DockerHub**, and **AWS EC2 (Amazon Linux 2)**.
-
+blog link :-[https://aman272.hashnode.dev/documentation-automating-code-deployment-with-cicd-on-aws-ec2]
 ---
 
 ## 📌 Features
